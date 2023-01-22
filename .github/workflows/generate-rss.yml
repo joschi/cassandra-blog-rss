@@ -1,0 +1,30 @@
+name: Generate Cassandra Blog RSS Feed
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "1 0 * * *"
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+    name: Generate RSS
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.PUSH_TOKEN }}
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.7'
+        bundler-cache: true
+    - name: Generate RSS
+      run: bundle exec cassandra_blog.rb > cassandra.xml
+    - name: Push to GitHub Pages
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'cassandra.xml'
+        new_branch: 'gh-pages'
+        push: 'origin gh-pages --force'
+
