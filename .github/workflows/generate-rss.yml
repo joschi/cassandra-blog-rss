@@ -12,7 +12,7 @@ jobs:
     name: Generate RSS
     steps:
     - name: Checkout
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
       with:
         token: ${{ secrets.PUSH_TOKEN }}
     - uses: ruby/setup-ruby@v1
