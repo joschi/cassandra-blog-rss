@@ -17,7 +17,7 @@ jobs:
         token: ${{ secrets.PUSH_TOKEN }}
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.4.7'
+        ruby-version: '3.4.8'
         bundler-cache: true
     - name: Generate RSS
       run: bundle exec cassandra_blog.rb > cassandra.xml
