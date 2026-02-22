@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Apache Cassandra Blog</title>
+    <link>https://cassandra.apache.org/_/blog.html</link>
+    <description>Apache Casssandra blog posts.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Feb 2026 01:53:26 +0000</lastBuildDate>
+    <item>
+      <title>Apache Cassandra® User Survey 2024 Results</title>
+      <link>https://cassandra.apache.org/_/blog/2024-User-Survey.html</link>
+      <description>The Apache Cassandra® User Survey 2024 results are in! Learn more about the survey and the insights it provides. Read More</description>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e1c701e1500a20de253431ec6cfca22f087c3b5d</guid>
+      <dc:date>2024-10-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Announcing Apache Cassandra® 5.0</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Announcement.html</link>
+      <description>The Cassandra project is happy to announce the general availability of Apache Cassandra® 5.0! This major release marks a significant milestone in the evolution of the world’s most powerful distributed database used by over 30,000 organizations worldwide. This major release brings substantial improvements in performance, usability, and capabilities. In addition, there is significant new functionality specifically targeted for ease of use for both developers and operators. Read More</description>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ae641e670e48c1d9bae37d04be36c085db386985</guid>
+      <dc:date>2024-09-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 5.0 Features: Mathematical CQL Functions</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Features-Mathematical-CQL-Functions.html</link>
+      <description>Apache Cassandra excels in scalable data handling with powerful CQL math functions. From basic arithmetic to advanced stats, it enables efficient, real-time processing and supports diverse domains, enhancing overall application performance. Read More</description>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">46222688e5e234fe5200592defdca4a9d746d4e0</guid>
+      <dc:date>2024-02-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Contributor November Meeting Replay</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Contributor-November-Meeting-Replay.html</link>
+      <description>November’s meeting discussed the upcoming Apache Cassandra 5.0 release. Read More</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">24abd2cc6fdd6ff9467bc9b4a3db0754109b86d6</guid>
+      <dc:date>2024-01-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: mondayDB Architecture - Crafting a Database From Scratch</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-mondayDB-Architecture-Crafting-a-Database-From-Scratch.html</link>
+      <description>Learn how monday.com built their custom database, mondayDB, from scratch using Apache Cassandra. Read More</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">436f659dc0655e4455c742b9d5535d84e5819cc7</guid>
+      <dc:date>2024-01-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: Josh McKenzie - State of the Cassandra Community</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-The-State-of-the-Cassandra-Development-Community.html</link>
+      <description>Josh reviews Apache Cassandra’s growth, contributors, and the challenge of consensus for long-term project health. Read More</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d1d481773ba34f2dacc201c4d33a623d1772990b</guid>
+      <dc:date>2024-01-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Welcoming the Inaugural Cassandra Catalysts</title>
+      <link>https://cassandra.apache.org/_/blog/Welcoming-the-Inaugural-Cassandra-Catalysts.html</link>
+      <description>At Cassandra Summit 2023, the inaugural batch of Cassandra Catalysts was announced. Read More</description>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2c9ad7340caaf0d110aa5ae0606f67e6b137522b</guid>
+      <dc:date>2023-12-15T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: Cassandra at Walmart</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-Cassandra-at-Walmart.html</link>
+      <description>Explore how Walmart optimized data management with Apache Cassandra, streamlining processes and upgrading to version 4, and its impact on operations in this Town Hall recap. Read More</description>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fd2c0980ea345b4057fffd926f1ed3e428987e50</guid>
+      <dc:date>2023-12-08T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 5.0 Features: Vector Search</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Features-Vector-Search.html</link>
+      <description>Explore the key Vector Search benefits Apache Cassandra users can look forward to, as well as applications the capability can enable. Read More</description>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">21fe0fb99bec0139af4ff4cb2dffd1b503731a06</guid>
+      <dc:date>2023-12-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Introducing the Apache Cassandra® Catalyst Program</title>
+      <link>https://cassandra.apache.org/_/blog/Introducing-the-Apache-Cassandra-Catalyst-Program.html</link>
+      <description>Announcing the brand new Apache Cassandra® Catalyst Program, the first of it’s kind! Read More</description>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">153769d522025d3f7e402e3d7de886943a520964</guid>
+      <dc:date>2023-12-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 5.0 Features: Storage Attached Indexes</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Features-Storage-Attached-Indexes.html</link>
+      <description>Storage Attached Indexes offers enhanced data retrieval with new indexes, minimizing storage, and boosting query speed for efficient, high-performance applications. Read More</description>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f83880dcac131f6dbc6f7b17f0bfce5700a71b57</guid>
+      <dc:date>2023-11-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 5.0 Features: Trie Memtables and Trie-Indexed SSTables</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Features-Trie-Memtables-and-Trie-Indexed-SSTables.html</link>
+      <description>Trie Memtables &amp;amp; Trie-Indexed SSTables improve data handling, boost performance, reduce write amplification, and aid scalability. Read More</description>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">46e5c4c04ff4bd67c7928b92fcd0e6fb29cecf1c</guid>
+      <dc:date>2023-11-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Contributor October Meeting Replay</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Contributor-October-Meeting-Replay.html</link>
+      <description>Get an update on the status of CEP-29 in this recap of the October contributor meeting. Read More</description>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3a7f136723837d84b09de89bdcc671d1a4238203</guid>
+      <dc:date>2023-10-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 5.0 Features: Unified Compaction Strategy</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Features-Unified-Compaction-Strategy.html</link>
+      <description>Unified Compaction Strategy optimizes Apache Cassandra data compaction, adapting to diverse workloads for improved performance. Read More</description>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c800abac3707cc368d7a01d8ae4d9a49ffcbfedb</guid>
+      <dc:date>2023-10-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 5.0 Features: Dynamic Data Masking</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Features-Dynamic-Data-Masking.html</link>
+      <description>Apache Cassandra 5.0 adds Dynamic Data Masking for secure data retrieval via masking functions and permissions. Read More</description>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">552f9326a433f9bc258a5122852112da2377523f</guid>
+      <dc:date>2023-10-11T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: Cassandra 5.0 Features We’re Excited About</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-Cassandra-5.0-Features-We-Are-Excited-About.html</link>
+      <description>Learn how to handle one of the biggest Cassandra challenges of all: efficiently storing and retrieving over a petabyte of time series data accumulated over several years.. Read More</description>
+      <pubDate>Sun, 22 Feb 2026 01:53:30 +0000</pubDate>
+      <guid isPermaLink="false">26ae91bb640fd4ad1b25bf685bebcea1312ac893</guid>
+      <dc:date>2026-02-22T01:53:30+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Contributor July Meeting Replay</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Contributor-July-Meeting-Replay.html</link>
+      <description>Get an update on the status of CEP-7 in this recap of the July contributor meeting. Read More</description>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c7a5b7a72957a7761181543a9ceb95f53c07c81d</guid>
+      <dc:date>2023-07-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Contributor August Meeting Replay</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Contributor-August-Meeting-Replay.html</link>
+      <description>Get an update on the status of CEP-19 in this recap of the July contributor meeting. Read More</description>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2281563c22be55640db29c7c016d9b776dc69163</guid>
+      <dc:date>2023-08-31T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: Time Series Data Modeling for Massive Scale</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-Time-Series-Data-Modeling-for-Massive-Scale.html</link>
+      <description>Learn tricks to maximize Cassandra’s scalability. Discover efficient storage and retrieval of petabytes of time series data, plus tips to avoid common pitfalls. Read More</description>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7e96cffc0c736e2e13a9fee3cbe3db43fa868763</guid>
+      <dc:date>2023-08-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: Bad Partition Handling &amp; Large Language Models</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-Bad-Partition-Handling-and-Large-Language-Models.html</link>
+      <description>Learn how to handle and mitigate bad partitions during production incidents and explore the impact of LLMs. Read More</description>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b794111053a11a70cda009265c57f8650f95e67c</guid>
+      <dc:date>2023-08-16T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: Monitoring Apache Cassandra Without Implementation</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-Monitoring-Apache-Cassandra-Without-Implementation.html</link>
+      <description>The second Apache Cassandra Town Hall covers monitoring Cassandra using eBPF without implementing changes in code and reading and writing Cassandra data with Spark Bulk Analytics using CEP-28. Read More</description>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cd0ceb3533b38556c879d1c868f222d821c9f66c</guid>
+      <dc:date>2023-08-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Town Hall Replay: Cassandra Performance Tuning Like You’ve Been Doing it For Ten Years</title>
+      <link>https://cassandra.apache.org/_/blog/Town-Hall-Replay-Cassandra-Performance-Tuning-Like-Youve-Been-Doing-it-For-Ten-Years.html</link>
+      <description>Learn about Cassandra performance tuning in this recap of the inaugural Apache Cassandra Town Hall. Read More</description>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">94dc2ac06db338fe18371c3e4dcaffc5d273b152</guid>
+      <dc:date>2023-07-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 3.0 and 3.11 EOL at 5.0 Release</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-3.0.x-and-3.11.x-End-of-Life-Announcement.html</link>
+      <description>Announcing the end of life (EOL) for Apache Cassandra versions 3.0 and 3.11. Read More</description>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">615b1fe43fdf6534e207a7ffcbfb31ca189edf12</guid>
+      <dc:date>2023-05-15T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Announcing Monthly Town Halls</title>
+      <link>https://cassandra.apache.org/_/blog/Announcing-Monthly-Apache-Cassandra-Town-Halls.html</link>
+      <description>Join us for the kickoff of our new monthly live, virtual Town Hall meetings. Read More</description>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">89a084874c8770edc835330266137c07923bd555</guid>
+      <dc:date>2023-04-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>2023 Google Season of Documentation Proposal</title>
+      <link>https://cassandra.apache.org/_/blog/GSoD-Proposal-2023.html</link>
+      <description>We have applied to the GSoD with this proposal! Read More</description>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">26c3198e0e63f0a128b379371d539c71c11f0909</guid>
+      <dc:date>2023-02-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Summit Agenda Announced</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Summit-Agenda-Announced.html</link>
+      <description>Register today to join us in San Jose, California for the Cassandra Summit on March 13 &amp;amp; 14! Read More</description>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ef6875315a0dd47a8accba5dcbe532dcbac7bfbb</guid>
+      <dc:date>2023-01-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1 is here!</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-4.1-is-here.html</link>
+      <description>Apache Cassandra 4.1 is GA! Read the blog for more details on the key features you won’t want to miss in the next major release from the project. Read More</description>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b229bf8ff70eb6c9581f479bf0223128339a18b4</guid>
+      <dc:date>2022-12-13T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Summit 2023 registration is now open</title>
+      <link>https://cassandra.apache.org/_/blog/Summit-2023-Registrations-Open.html</link>
+      <description>Registrations for Cassandra Summit 2023 are open. Book your place for this not to be missed two-day event in San Jose, California. Read More</description>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e336108588da369247de5c7140459462a28f49e6</guid>
+      <dc:date>2022-11-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra wins BigDATAwire Open Source Projects to Watch Award</title>
+      <link>https://cassandra.apache.org/_/blog/BigDATAWire-Projects-to-Watch-Award.html</link>
+      <description>Apache Cassandra wins the BigDATAwire Open Source Projects to Watch Award for its exciting new features due in the next and future releases. Read More</description>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0af13943c71e58f5bda9797e4c03323d5f6f9fbb</guid>
+      <dc:date>2022-11-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #20</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-20-November-2022.html</link>
+      <description>We announce Cassandra 4.1-beta1 and a host of city-based Cassandra Days from Santa Clara to Hanoi, Jakarta and Singapore. Read More</description>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">975396cc6701ea86d3c6466ac70770eb30599eeb</guid>
+      <dc:date>2022-11-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Days Asia | Vietnam-Indonesia-Singapore</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Days-Asia-2022.html</link>
+      <description>Join us as we take Cassandra Days to Asia — Hanoi (Nov 8), Jakarta (Nov 10) and Singapore (Nov 15). Read More</description>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">67440409d37e5c9fb4966a60ebf4db9515ffdd2c</guid>
+      <dc:date>2022-10-26T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Day + Wakanda Forever</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Day-SC-Bellevue-Houston-WakandaForever.html</link>
+      <description>Join us for an action-packed Cassandra Day in Santa Clara, Bellevue &amp;amp; Houston with talks, workshop and a private screening of Wakanda Forever! Read More</description>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dc57c3f9ecb744847c9079e1c7261924c05ee450</guid>
+      <dc:date>2022-10-22T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Summit Returns in 2023</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Summit-Returns-in-2023.html</link>
+      <description>It’s time for the Apache Cassandra community to gather again! Learn more about Cassandra Summit 2023. Read More</description>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dbbbe9c8e814638e0a9fb9e4af8d71e2841608ed</guid>
+      <dc:date>2022-09-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Days for London and Amsterdam announced</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Days-for-London-and-Amsterdam-announced.html</link>
+      <description>Join us in London and Amsterdam for more Cassandra Days packed with talks and workshops and a chance to socialize with users, enthusiasts, and community members. Read More</description>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">55b5c8d28dfd6e3fd275aa032f700d73cfbe8cf3</guid>
+      <dc:date>2022-09-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #19</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-19-September-2022.html</link>
+      <description>Cassandra 4.0.6 is released and Cassandra Day in Berlin announced. Two new episodes of Apache Cassandra Corner podcast released and work resumes on JDK17 support. Read More</description>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a0dd2672bbcce750f46f2069a2bb6f06bf328e56</guid>
+      <dc:date>2022-09-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Learn How CommitLog Works in Apache Cassandra</title>
+      <link>https://cassandra.apache.org/_/blog/Learn-How-CommitLog-Works-in-Apache-Cassandra.html</link>
+      <description>Learn how Apache Cassandra’s CommittLog works, how Cassandra ensures data durability, and how various tuning parameters affect its behavior. Read More</description>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7f4944c1b5567c9b90f16f30f0a7b08246e732e6</guid>
+      <dc:date>2022-09-26T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #18</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-18-August-2022.html</link>
+      <description>Cassandra 4.0.5 is released, we say thank you to everyone for their help on Cassandra World Party and to Nate McCall, who is stepping down as PMC Chair. Read More</description>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">08003a9f96490115c602d9fbb964d500d686e14f</guid>
+      <dc:date>2022-08-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra Day in Berlin Announced</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-Day-in-Berlin-Announced.html</link>
+      <description>Join us in Berlin for a Cassandra Day packed with talks and workshops and a chance to socialize with users, enthusiasts, and community members. Read More</description>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">989d8b1beee1a622cb2a4560ef72b10f82a25403</guid>
+      <dc:date>2022-08-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Watch the Cassandra World Party</title>
+      <link>https://cassandra.apache.org/_/blog/Watch-the-Cassandra-World-Party.html</link>
+      <description>Don’t worry if you missed this year’s Cassandra World Party, we have the livestreams for every session and the individual talks for you to enjoy! Read More</description>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a34ad0610a2b3eae57fbd9228e07e0b4bea6d655</guid>
+      <dc:date>2022-08-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1 Features: Pluggable Memtable Implementations</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.1-Features-Pluggable-Memtable-Implementations.html</link>
+      <description>Apache Cassandra 4.1 supports alternative memtable implementations. Learn more about this feature and the proof of concept implementation included in the new release. Read More</description>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">61b6af242db5389b42f0d1facd4aae9c6342f64b</guid>
+      <dc:date>2022-07-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Last Chance to Register: Schedule &amp; Moderators Announced</title>
+      <link>https://cassandra.apache.org/_/blog/Last-Chance-to-Register-Schedule-Moderators-Announced.html</link>
+      <description>Register now for the upcoming Cassandra World Party and learn more about the speakers and moderators participating. Read More</description>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">141a3b7dc11a39ff9524b6f208d43ff73fbceef1</guid>
+      <dc:date>2022-07-15T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #17</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-17-July-2022.html</link>
+      <description>Cassandra 4.1 is getting closer, new Cassandra podcast and Cassandra World Party speakers and sponsors announced! Read More</description>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b57a6fb4e49d219bd0cc47c7079efcdaca58c6ce</guid>
+      <dc:date>2022-07-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1: Configuration Standardization</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.1-Configuration-Standardization.html</link>
+      <description>Introducting the New configuration framework for standardized property names and units, and provide more flexibility to end users. Read More</description>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d740fd05ce5e9e58af6dca46bf022f86defae681</guid>
+      <dc:date>2022-07-07T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1: Denylisting Partitions</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.1-Denylisting-Partitions.html</link>
+      <description>Operators gain control of problematic partitions with Apache Cassandra’s new feature in 4.1, the Partition Denylist. Read More</description>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">78acb18226c22f6a03346c2a7e9bfbd1bde26b18</guid>
+      <dc:date>2022-06-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Talks &amp; Sponsors Announced for Cassandra World Party 2022</title>
+      <link>https://cassandra.apache.org/_/blog/Talks-and-Sponsors-Announced-for-Cassandra-World-Party-2022.html</link>
+      <description>Cassandra World Party 2022 draws closer, we announce some of the talks and sponsors for the event. Read More</description>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8f104b96bfa8a88314095049ec1b183c89a2155b</guid>
+      <dc:date>2022-06-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1 Features: Authentication Plugin Support for CQLSH</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.1-Features-Authentication-Plugin-Support-for-CQLSH.html</link>
+      <description>As the new version nears completion, we highlight how Apache Cassandra 4.1 will introduce support for authentication plugins for CQL shell (CQLSH). Read More</description>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c7f037d7cd3c081215395a9407d7405f6964704e</guid>
+      <dc:date>2022-06-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1: New SSTable Identifiers</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.1-New-SSTable-Identifiers.html</link>
+      <description>Apache Cassandra 4.1 includes many features that make life easier for operators. One of them is a new globally unique identifier for SSTables. Read More</description>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">48e7c7536a8e16b0a0196f2653844a6a320189d1</guid>
+      <dc:date>2022-06-16T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra World Party 2022</title>
+      <link>https://cassandra.apache.org/_/blog/World-Party-2022.html</link>
+      <description>In anticipation of the release of Cassandra 4.1, we’re excited to announce the second-annual Cassandra World Party, a fun-packed event running across three time zones. Read More</description>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">65c015d73567d22db11825d340f98e89e4149986</guid>
+      <dc:date>2022-06-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #16</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-16-June-2022.html</link>
+      <description>Cassandra 4.1-alpha available, new patch releases, and Cassandra World Party announced! Read More</description>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8a629c8563e9a8c3be1c8641f1ff42b1ffc11b55</guid>
+      <dc:date>2022-06-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1 Features: Client-side Password Hashing</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.1-Features-Client-side-Password-Hashing.html</link>
+      <description>To strengthen security and avoid the use of plain-text credentials altogether, Apache Cassandra has added the option to use client-side password hashes in 4.1. Read More</description>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">15ab7d8be0e69671311313d500071e989753820b</guid>
+      <dc:date>2022-05-26T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The Path to Green CI</title>
+      <link>https://cassandra.apache.org/_/blog/The-Path-to-Green-CI.html</link>
+      <description>As we approach the GA of Cassandra 4.1, we reflect on our development journey and show some statistics to demonstrate the level of testing that now goes into the project. Read More</description>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9eb783a26d226e15b5909d39226f000999131d6b</guid>
+      <dc:date>2022-05-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.1 Features: Guardrails Framework</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.1-Features-Guardrails-Framework.html</link>
+      <description>Cassandra 4.1 introduces Guardrails - a framework that helps enforce good practices to avoid poor cluster performance and availability because of certain user actions. Read More</description>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6c53b7f58589a9b167124e1a5513ce99e1251fdd</guid>
+      <dc:date>2022-05-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #15</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-15-May-2022.html</link>
+      <description>Code freeze in readiness for Cassandra 4.1 release, volunteers needed for Build Lead role, and CFPs open for Cassandra and Performance Engineering tracks at ApacheCon NA. Read More</description>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">db85793d28689b4605ab6d430cf948377b7b7520</guid>
+      <dc:date>2022-05-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Liquibase is Ready to Support Cassandra 4.0 Users</title>
+      <link>https://cassandra.apache.org/_/blog/Liquibase-is-Ready-to-Support-Cassandra-4.0-Users.html</link>
+      <description>Read the case study on Liquibase, which is both the name for an open source project for database change management and a company offering a paid-for version, and supports Apache Cassandra 3.11 and 4.0. Read More</description>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">66e0efcbc615eabbf9d84550e7bfaf62f8757d41</guid>
+      <dc:date>2022-04-28T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Inside Cassandra: An Interview with Project Contributor, Aleksandr Sorokoumov</title>
+      <link>https://cassandra.apache.org/_/blog/Inside-Cassandra-an-interview-with-Project-Contributor-Aleksandr-Sorokoumov.html</link>
+      <description>We continue our Inside Cassandra series with a Q&amp;amp;A with Aleksandr Sorokoumov who recently accepted the committer position in recognition of his contributions. Read More</description>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f759236f1a799d5a266899e3d43fd8e52ae38d68</guid>
+      <dc:date>2022-04-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>ApacheCon NA 2022 Call For Papers Open</title>
+      <link>https://cassandra.apache.org/_/blog/ApacheCon-NA-2022-Call-for-Papers-Open.html</link>
+      <description>Here is a great opportunity to contribute to the project. ApacheCon NA 2022 Call For Papers is open! Read More</description>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">22040d3a18f2da0baecec884e245469c2b95c329</guid>
+      <dc:date>2022-04-07T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #14</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-14-April-2022.html</link>
+      <description>Cassandra’s GitHub PRs get a clean-up, a new committer is announced, more volunteers are needed for Build Lead, and Python vs. in-jvm dtest is discussed. Read More</description>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">87483aba4d9cdcf3487f2716967eefea6df51a78</guid>
+      <dc:date>2022-04-07T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Kinetic Data chooses Apache Cassandra to deliver workflow automation solution</title>
+      <link>https://cassandra.apache.org/_/blog/Kinetic-Data-chooses-Apache-Cassandra-to-deliver-workflow-automation-solution.html</link>
+      <description>Read our latest user case study. When it came to building a new platform, Kinetic Data chose Apache Cassandra as the database for building its workflow automation solution. Read More</description>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e0b4e0e79cca28ea5862277878737e10a6f26ebe</guid>
+      <dc:date>2022-03-31T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Inside Cassandra: An Interview with Project Contributor, Lorina Poland</title>
+      <link>https://cassandra.apache.org/_/blog/Inside-Cassandra-an-interview-with-Project-Contributor-Lorina-Poland.html</link>
+      <description>We continue our Inside Cassandra series by introducing the people behind the Apache Cassandra. Our first interviewee is Lorina Poland, who recently accepted the committer position in recognition of all her work on project documentation. Read More</description>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">16a6618112c300d2c12f49fd808cc6a1e8e92fed</guid>
+      <dc:date>2022-03-17T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Can Apache Cassandra take my PEM keys?</title>
+      <link>https://cassandra.apache.org/_/blog/Can-Apache-Cassandra-take-my-PEM-keys.html</link>
+      <description>Maulin Vasavada demonstrates how to use PEM-based security credentials like your private key, corresponding certificate chain, and trusted CA certificates. These credentials will have built-in support in Apache Cassandra 4.1 which will also introduce a pluggable configuration for customizing the SSL context for TLS encryption Read More</description>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5bbbffa379027e7867adeab324187ec3529b5a9e</guid>
+      <dc:date>2022-03-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Join Apache Cassandra’s Google Summer of Code Program 2022</title>
+      <link>https://cassandra.apache.org/_/blog/Join-Apache-Cassandras-GSoC-Program-2022.html</link>
+      <description>Apache Cassandra will be participating in the Google Summer of Code (GSoC) in 2022 again after a successful project in 2021, and the program itself this year has some changes we are excited to announce. Read More</description>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3f4733734c3735afaa25a4c0bf467e94691b8232</guid>
+      <dc:date>2022-03-08T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #13</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-13-March-2022.html</link>
+      <description>A new patch is released for all supported versions to address a known vulnerability, we celebrate three new committers, and see SAI and other CEP features approved. Read More</description>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d3d0187a4c5198c2c9eb95ce5ab011cbb09ade8e</guid>
+      <dc:date>2022-03-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Java SE 11 LTS and Apache Cassandra</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-and-Java-SE-11-support.html</link>
+      <description>With the release of version 4.0.2, Cassandra’s support for Java 11 will no longer be experimental and offers a number of features including better performance because of better garbage collection. Read More</description>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a91b7c834d5950adf81087df2fa26247e38e306a</guid>
+      <dc:date>2022-02-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Upgrade Advisory</title>
+      <link>https://cassandra.apache.org/_/blog/Upgrade-Advisory2.html</link>
+      <description>If the operator has configured the cluster in a documented insecure way, it is possible for malicious users to execute remote code using scripted UDFs. Users of Apache Cassandra 3.0, 3.11, and 4.0 to upgrade or to reset enable_user_defined_functions_threads back to true. Read More</description>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3c2fe6a5eee4bd3bb6bef9b62d42b9954b5ffa66</guid>
+      <dc:date>2022-02-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Behind the scenes of an Apache Cassandra Release</title>
+      <link>https://cassandra.apache.org/_/blog/Behind-the-scenes-of-an-Apache-Cassandra-Release.html</link>
+      <description>Formalizing how we balance the need to evolve and provide cutting-edge features with long-term stability. The simple rules we use to decide when to merge and why we’ll be supporting three GA releases going forward, but why we’ve decided to support four releases for the next cycle. Read More</description>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b0ee451e63acdae24d13681b238cf2f15a3b6c94</guid>
+      <dc:date>2022-02-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Tightening Security for Apache Cassandra: Part 3</title>
+      <link>https://cassandra.apache.org/_/blog/Tightening-Security-for-Apache-Cassandra-Part-3.html</link>
+      <description>In Part 3 of Maulin Vasavada’s mini-series on improving security, we detail how Cassandra 4.0 delivers ways to customize mTLS/TLS configuration while retaining the hot-reload functionality. Read More</description>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ccee385e4452465116331395fb691b7e06cca72b</guid>
+      <dc:date>2022-02-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #12</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-12-February-2022.html</link>
+      <description>A new Build Lead role is announced. Ideas are requested for Google Summer of Code, and the Future of UDF is defined. Cassandra’s CI process is formalized and a Trie Memtable Implementation is discussed. Read More</description>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">352e71dbf7dc9a182ea50d92e9ff6f9a6ccab12e</guid>
+      <dc:date>2022-02-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Tightening Security for Apache Cassandra: Part 2</title>
+      <link>https://cassandra.apache.org/_/blog/Tightening-Security-for-Apache-Cassandra-Part-2.html</link>
+      <description>Part 2 of Maulin Vasavada’s mini-series covers how to secure data in transit using TLS/mTLS, configure TLS/mTLS properly, and the challenges before the release of Apache Cassandra 4.0. Read More</description>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4b672a3061e40e2f77d3289543f9b3f0403ef3c1</guid>
+      <dc:date>2022-02-07T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Tightening Security for Apache Cassandra: Part 1</title>
+      <link>https://cassandra.apache.org/_/blog/Tightening-Security-for-Apache-Cassandra-Part-1.html</link>
+      <description>The growth in ecommerce has demanded a greater focus on data security, Maulin Vasavada begins a mini-series on how to customize SSL/TLS configurations to tighten security in Cassandra 4.0+. Read More</description>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8cf1538a7a4f5e128bb251a7070ab3c1b8ebf57a</guid>
+      <dc:date>2022-01-31T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #11</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-11-January-2022.html</link>
+      <description>We deck the halls with Jira tickets running an Advent Calendar during December. Many CEPs have been approved and are in development while others, such as CEP-3 and CEP-10, have already been merged. We also welcome Sumanth Pasupuleti who becomes a committer and we start warming up for Google Summer of Code. Read More</description>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f3081cbc9eb7adbb889602379673cef7713476ae</guid>
+      <dc:date>2022-01-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Configurable Storage Ports and Why We Need Them</title>
+      <link>https://cassandra.apache.org/_/blog/Configurable-Storage-Ports-and-Why-We-Need-Them.html</link>
+      <description>Cassandra’s network configuration is highly adaptable, communicating across a great variety of networks and devices, we explain how and why you might need to change your storage port configuration. Read More</description>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">71d849eb6051a97423c2a9a7eda5972257981bc8</guid>
+      <dc:date>2022-01-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Using Arithmetic Operators in Cassandra 4.0</title>
+      <link>https://cassandra.apache.org/_/blog/Using-Arithmetic-Operators-in-Cassandra-4.0.html</link>
+      <description>With the release of Cassandra 4.0, CQL now supports arithmetic operators. Benjamin Lerer describes how to use operators, and how we’ve addressed challenges around return types and types inference. Read More</description>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7328d1511c9737e5dd94dfd9ade4664f4ac18dbf</guid>
+      <dc:date>2021-12-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Harry, an Open Source Fuzz Testing and Verification Tool for Apache Cassandra</title>
+      <link>https://cassandra.apache.org/_/blog/Harry-an-Open-Source-Fuzz-Testing-and-Verification-Tool-for-Apache-Cassandra.html</link>
+      <description>Introducing Harry, an Open Source fuzz testing and verification tool for Apache Cassandra that can combine properties of stress- and integration-testing tools. Harry can generate data for an arbitrary schema, execute data modification queries against the cluster, track the progress of operation execution, and make sure that responses to read queries are correct. Read More</description>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fc511d4582d89269691113651584512b04f0cf39</guid>
+      <dc:date>2021-11-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Inside Cassandra: an interview with Marcel Birkner at Instana</title>
+      <link>https://cassandra.apache.org/_/blog/Inside-Cassandra-an-interview-with-Marcel-Birkner-at-Instana.html</link>
+      <description>We interview Marcel Birkner, Site Reliability Engineer at Instana, how they use Apache Cassandra to store and process the metric data at scale and benefit from Cassandra’s fault tolerance, and have learned the importance of dog-fooding. Read More</description>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6db8338bb80f8896bd6b7d54adc93a8e3ba85844</guid>
+      <dc:date>2021-11-17T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>What the Future Holds for Apache Cassandra</title>
+      <link>https://cassandra.apache.org/_/blog/What-the-Future-Holds-for-Apache-Cassandra.html</link>
+      <description>The release of Apache Cassandra 4.0 has opened the floodgates to new feature proposals. Many feature ideas have been approved and are in development such as a cluster and code action simulator and support for general-purpose transaction support while others, such as Storage Attached Indexing, are being discussed. Read More</description>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2bb2b7abb3f5973a8c0361993eb6c4f23824d600</guid>
+      <dc:date>2021-10-26T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #10</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-10-October-2021.html</link>
+      <description>Apache Cassandra 4.0.1 is released, and Aleksei Zotov becomes a committer. Discussions are underway for some key, new feature proposals, including support for general-purpose transactions and Storage Attached Index (SAI). CEP-11, the pluggable memtable implementations proposal, has been approved, as has CEP-13 for a denylisting partitions feature.l-making. Read More</description>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c81ccb5dc4eeb65e390e41fe120afd1dc005ffd6</guid>
+      <dc:date>2021-10-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Reaper: Anti-entropy Repair Made Easy</title>
+      <link>https://cassandra.apache.org/_/blog/Reaper-Anti-entropy-Repair-Made-Easy.html</link>
+      <description>Originally designed by Spotify, Reaper is an open source written in Java to schedule and orchestrate repairs of Apache Cassandra clusters. It helps make repairs as safe and reliable as possible, and with the recent release of Apache Cassandra 4.0 that also includes incremental repairs. Read More</description>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">53b0163cf291737753572a1c57df389ecc96b51c</guid>
+      <dc:date>2021-09-28T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Join Cassandra at Apachecon 2021</title>
+      <link>https://cassandra.apache.org/_/blog/Join-Cassandra-at-ApacheCon-2021.html</link>
+      <description>Register to attend ApacheCon 2021 for a packed series of presentations on the new features in development for Apache Cassandra, along with best practices for CI &amp;amp; testing, and cutting-edge use cases. The BoF event at the end of the day includes a deep dive into Apache Cassandra 4.0 and cocktail-making. Read More</description>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">729d5ae5caaca70648f42a9876cc8e18d888c23a</guid>
+      <dc:date>2021-09-20T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra on Kubernetes: A Beginner’s Guide</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-on-Kubernetes-A-Beginners-Guide.html</link>
+      <description>Managing infrastructure has been standardizing around Kubernetes. Learn how the Apache Cassandra community has been developing solutions to simplify deployment and management of data with Cassandra operators and open source distributions for Kubernetes. Read More</description>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">599fa942a5424c690369abaf5000f8eb9a066025</guid>
+      <dc:date>2021-09-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Upgrade Advisory</title>
+      <link>https://cassandra.apache.org/_/blog/Upgrade-Advisory.html</link>
+      <description>Users of Apache Cassandra 3.023, 3.0.24, 3.11.9 and 3.11.10 should upgrade due to the potential for data corruption during schema changes. Read More</description>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3c2fe6a5eee4bd3bb6bef9b62d42b9954b5ffa66</guid>
+      <dc:date>2021-08-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #9</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-9-August-2021.html</link>
+      <description>Release of 4.0 GA, 3.0.25, and 3.0.11, upgrade advisory and Jon Meredith becomes committer. Read More</description>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">44e980cd328aa106af7809e9c0f95ad2428713da</guid>
+      <dc:date>2021-08-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.0 Overview</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.0-Overview.html</link>
+      <description>Take a look at the full overview of the latest and greatest features of Apache Cassandra 4.0. Read More</description>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">27c6908e2905d54f68855cda1c17ef3ead0cf6c0</guid>
+      <dc:date>2021-08-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra 4.0 is Here</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-4.0-is-Here.html</link>
+      <description>On November 9th, 2015 the Apache Cassandra project released version 3.0 and, with it, a host of really big changes you would expect in a major version. Read More</description>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">323f4ec1ee1e767bce654a4b3d70a24daf8198c8</guid>
+      <dc:date>2021-07-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #8</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-8-June-2021.html</link>
+      <description>4.0-rc2 released, say hello to our Google Summer of Code intern and new community intro to Cassandra videos. Read More</description>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9ecf5601df3a0862241f23edf7b225262efd0527</guid>
+      <dc:date>2021-06-28T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra and Kubernetes: SIG Update #2</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-and-Kubernetes-SIG-Update-2.html</link>
+      <description>The Cassandra Kubernetes SIG is excited to share that there has been coalescence around the Cass Operator project as the community-based operator. Read More</description>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cefd3fa95be0b9e90abde6e9279afeef5b952763</guid>
+      <dc:date>2021-06-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #7</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-7-May-2021.html</link>
+      <description>Our monthly roundup of key activities and knowledge to keep the community informed. Read More</description>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0b577254ca5a4c1d5bbf5e272db8e5ff6d079379</guid>
+      <dc:date>2021-05-31T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Speakers Announce for April 28 Cassandra 4.0 World party</title>
+      <link>https://cassandra.apache.org/_/blog/Speakers-Announced-for-April-28-Cassandra-4.0-World-Party.html</link>
+      <description>The list of speakers for Apache Cassandra’s upcoming 4.0 World Party. Read More</description>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9a7fca43e4ae080a116edf347fe322b322b48a2e</guid>
+      <dc:date>2021-04-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #6</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-6-April-2021.html</link>
+      <description>Our monthly roundup of key activities and knowledge to keep the community informed. Read More</description>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4c9ab0d127351942f6d4bbc0f8faa0a28b5849f5</guid>
+      <dc:date>2021-04-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra World Party 2021</title>
+      <link>https://cassandra.apache.org/_/blog/World-Party.html</link>
+      <description>We are now one of the most important databases today and manage the biggest workloads in the world. Because of that, we want to gather the worldwide community to Read More</description>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02286fdb56eef598cf92cd6d0be3516c97e722ae</guid>
+      <dc:date>2021-03-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Join Apache Cassandra for Google Summer of Code 2021</title>
+      <link>https://cassandra.apache.org/_/blog/Join-Cassandra-GSoC-2021.html</link>
+      <description>The ASF has been a GSoC mentor organization since the beginning. Apache Cassandra mentored a successful GSoC project in 2016 and we are participating again this year. Read More</description>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a4ec4978d67953db22e634f63c704a3902eefd3a</guid>
+      <dc:date>2021-03-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #5</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-5-March-2021.html</link>
+      <description>Our monthly roundup of key activities and knowledge to keep the community informed. Read More</description>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3e8b7e39d85f71f3ffac841deca933b91962d415</guid>
+      <dc:date>2021-03-08T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #4</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-4-February-2021.html</link>
+      <description>Our monthly roundup of key activities and knowledge to keep the community informed. Read More</description>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">451f339e5f078fbdc0942169db6d601351b5ae23</guid>
+      <dc:date>2021-02-11T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #3</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-3-January-2021.html</link>
+      <description>Our monthly roundup of key activities and knowledge to keep the community informed. Read More</description>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5c70509c0670255d44ee5ce78e54fa8ecf9426f9</guid>
+      <dc:date>2021-01-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #2</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-2-December-2020.html</link>
+      <description>Our monthly roundup of key activities and knowledge to keep the community informed. Read More</description>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">15392e245dddb01bf65f24cbeccd55c8941ebf7b</guid>
+      <dc:date>2020-12-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Changelog #1</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Changelog-1-October-2020.html</link>
+      <description>Introducing the first Cassandra Changelog blog! Our monthly roundup of key activities and knowledge to keep the community informed. Read More</description>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">842c531b34e2eb4caf485f1ef1daf8c7db702059</guid>
+      <dc:date>2020-10-28T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Apache Cassandra Usage Report 2020</title>
+      <link>https://cassandra.apache.org/_/blog/Apache-Cassandra-Usage-Report-2020.html</link>
+      <description>Apache Cassandra is the open source NoSQL database for mission critical data. Today the community announced findings from a comprehensive global survey of 901 practitioners on Cassandra usage. It’s the first of what will become an annual survey that provides a baseline understanding of who, how, and why organizations use Cassandra. Read More</description>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0f444a3b72b6bdefa72e879da348c976e977e74f</guid>
+      <dc:date>2020-09-17T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Improving Apache Cassandra’s Front Door and Backpressure</title>
+      <link>https://cassandra.apache.org/_/blog/Improving-Apache-Cassandras-Front-Door-and-Backpressure.html</link>
+      <description>As part of CASSANDRA-15013, we have improved Cassandra’s ability to handle high throughput workloads, while having enough safeguards in place to protect itself from potentially going out of memory. In order to better explain the change we have made, let us understand at a high level, on how an incoming request is processed by Cassandra before the fix, followed by what we changed, and the new relevant configuration knobs available. Read More</description>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">413ee1838ed647e6a820090f990eadf026441d65</guid>
+      <dc:date>2020-09-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Cassandra and Kubernetes: SIG Update and Survey</title>
+      <link>https://cassandra.apache.org/_/blog/Cassandra-and-Kubernetes-SIG-Update-and-Survey.html</link>
+      <description>Five operators for Apache Cassandra have been created that have made it easier to run containerized Cassandra on Kubernetes. Recently the major contributors to these operators came together to discuss the creation of a community-based operator with the intent of making one that makes it easy to run C* on K8s. One of the project’s organizational goals is that the end result will eventually become part of the Apache Software Foundation or the Apache Cassandra project. Read More</description>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e262125b8675a875a50175287faea83054851346</guid>
+      <dc:date>2020-08-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Introducing Apache Cassandra 4.0 Beta: Battle Tested From Day One</title>
+      <link>https://cassandra.apache.org/_/blog/Introducing-Apache-Cassandra-4-Beta-Battle-Tested-From-Day-One.html</link>
+      <description>This is the most stable Apache Cassandra in history; you should start using Apache Cassandra 4.0 Beta today in your test and QA environments, head to the downloads site to get your hands on it. The Cassandra community is on a mission to deliver a 4.0 GA release that is ready to be deployed to production. You can guarantee this holds true by running your application workloads against the Beta release and contributing to the community’s validation effort to get Cassandra 4.0 to GA. Read More</description>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">67cbd78ccc836ab3c0d5ae9cd2f3b21fb2e6ae50</guid>
+      <dc:date>2020-07-20T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Even Higher Availability with 5x Faster Streaming in Cassandra 4.0</title>
+      <link>https://cassandra.apache.org/_/blog/Even-Higher-Availability-with-5x-Faster-Streaming-in-Cassandra-4.html</link>
+      <description>Streaming is a process where nodes of a cluster exchange data in the form of SSTables. Streaming can kick in during many situations such as bootstrap, repair, rebuild, range movement, cluster expansion, etc. In this post, we discuss the massive performance improvements made to the streaming process in Apache Cassandra 4.0. Read More</description>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">302e5d0b6101d4be873d7426b0826ef88c78bf72</guid>
+      <dc:date>2019-04-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Introducing Transient Replication</title>
+      <link>https://cassandra.apache.org/_/blog/Introducing-Transient-Replication.html</link>
+      <description>Transient Replication is a new experimental feature soon to be available in 4.0. When enabled, it allows for the creation of keyspaces where replication factor can be specified as a number of copies (full replicas) and temporary copies (transient replicas). Transient replicas retain the data they replicate only long enough for it to be propagated to full replicas, via incremental repair, at which point the data is deleted. Writing to transient replicas can be avoided almost entirely if monotonic reads are not required because it is possible to achieve a quorum of acknowledged writes without them. Read More</description>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8e57d0c48b73c022a71eeb3d66e3778de7de768a</guid>
+      <dc:date>2018-12-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Audit Logging in Apache Cassandra 4.0</title>
+      <link>https://cassandra.apache.org/_/blog/Audit-Logging-in-Apache-Cassandra-4.html</link>
+      <description>Database audit logging is an industry standard tool for enterprises to capture critical data change events including what data changed and who triggered the event. These captured records can then be reviewed later to ensure compliance with regulatory, security and operational policies. Read More</description>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">aa2473091a4966d23f028f8a52d5b39f2735cc04</guid>
+      <dc:date>2018-10-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Finding Bugs in Cassandra’s Internals with Property-based Testing</title>
+      <link>https://cassandra.apache.org/_/blog/Finding-Bugs-in-Cassandra&#39;s-Internals-with-Property-based-Testing.html</link>
+      <description>As of September 1st, the Apache Cassandra community has shifted the focus of Cassandra 4.0 development from new feature work to testing, validation, and hardening, with the goal of releasing a stable 4.0 that every Cassandra user, from small deployments to large corporations, can deploy with confidence. There are several projects and methodologies that the community is undertaking to this end. One of these is the adoption of property-based testing, which was previously introduced here. This post will take a look at a specific use of this approach and how it found a bug in a new feature meant to ensure data integrity between the client and Cassandra. Read More</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2554de7d531f7dba165549a6c86b0a7912f42b99</guid>
+      <dc:date>2018-10-17T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Testing Apache Cassandra 4.0</title>
+      <link>https://cassandra.apache.org/_/blog/Testing-Apache-Cassandra-4.html</link>
+      <description>With the goal of ensuring reliability and stability in Apache Cassandra 4.0, the project’s committers have voted to freeze new features on September 1 to concentrate on testing and validation before cutting a stable beta. Towards that goal, the community is investing in methodologies that can be performed at scale to exercise edge cases in the largest Cassandra clusters. The result, we hope, is to make Apache Cassandra 4.0 the best-tested and most reliable major release right out of the gate. Read More</description>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7765fd58a098ca71178e6824e9a7360f727e08cd</guid>
+      <dc:date>2018-08-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Hardware-bound Zero Copy Streaming in Apache Cassandra 4.0</title>
+      <link>https://cassandra.apache.org/_/blog/Hardware-bound-Zero-Copy-Streaming-in-Apache-Cassandra-4.html</link>
+      <description>Streaming in Apache Cassandra powers host replacement, range movements, and cluster expansions. Streaming plays a crucial role in the cluster and as such its performance is key to not only the speed of the operations its used in but the cluster’s health generally. In Apache Cassandra 4.0, we have introduced an improved streaming implementation that reduces GC pressure and increases throughput several folds and are now limited, in some cases, only by the disk / network IO (See: CASSANDRA-14556). Read More</description>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7518417e33a1f1db018bb663be22506fc29ac1b9</guid>
+      <dc:date>2018-08-07T00:00:00+00:00</dc:date>
+    </item>
+    <generator>html2rss V. 0.17.0</generator>
+    <ttl>360</ttl>
+  </channel>
+</rss>
