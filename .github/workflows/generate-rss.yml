@@ -22,7 +22,7 @@ jobs:
     - name: Generate RSS
       run: bundle exec cassandra_blog.rb > cassandra.xml
     - name: Push to GitHub Pages
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v10
       with:
         add: 'cassandra.xml'
         new_branch: 'gh-pages'
