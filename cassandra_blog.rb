@@ -9,7 +9,7 @@ rss =
       title: { selector: 'div.content > h3' },
       description: { selector: 'div.content > div.openblock.card-content > div.content', post_process: [{ name: 'sanitize_html' }] },
       link: { selector: 'div.content div.openblock.card-btn div.content div.paragraph.btn a.page @href', post_process: [{ name: 'gsub', pattern: 'blog', replacement: 'https://cassandra.apache.org/_/blog' }] },
-      updated: { selector: 'div.content > h4', post_process: [{ name: 'parse_time', time_zone: 'UTC' }] }
+      published_at: { selector: 'div.content > h4', post_process: [{ name: 'parse_time', time_zone: 'UTC' }] }
     }
   )
 
